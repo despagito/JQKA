@@ -1,8 +1,8 @@
 ## Question
 
 
-- Put these 16 cards in a `4*4` board. Make sure each row, each column, and each main diagnal don't have conflict.
-- Conflitc meaning same number or same suit.
+- Put these 16 cards in a `4*4` board. Make sure each row, each column, and each main diagonal don't have conflict.
+- Conflict means same number or same suit.
 - Thest cards are: J♥️, J♦️, J♠️, J♣️, Q♥️, Q♦️, Q♠️, Q♣️, K♥️, K♦️, K♠️, K♣️, A♥️, A♦️, A♠️, A♣️.
 
 
